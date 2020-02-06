@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.wrapper {
+  
+}
+
+.section1 {
+    background: url('../img/bg1.jpg') fixed;
+    background-size: cover;
+    height: 900px;
+    
+}
+
+.content {
+    color: #FFFFFF;
+    position: absolute;
+    top: 586px;
+    left: 62px;
+    transform: translate(5%, -10%);
+}
+
+.sertiz {
+    width: 172px;
+    height: 36px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: 48px;
+    
+}
+
+.text {
+    width: 287px;
+    height: 16px;
+    padding: 20px 0 20px ;
+    
+}
+
+.big-text {
+    display: flex;
+    justify-content: space-between;
+    font-size: 54px;
+    border: 1px solid #FFFFFF;
+    margin: 25px 0;
+}
+
+
+.we {
+    color: #F1AD1D;
+    background-color: #FFFFFF;
+    padding: 25px 17px;
+}
+
+.make {
+    padding: 25px 17px;
+}
+
+.section2 {
+    text-align: center;
+}
+
+.what {
+    font-size: 22px;
+    padding: 112px 0 18px 0;
+}
+
+.we-are {
+    font-size: 17px;
+}
+
+.line {
+    background: #F1AD1D;
+    width: 61px;
+    height: 4px;
+    margin: 56px auto 80px;
+    
+}
+.section3 {
+    background: url('../img/bg2.jpg') fixed;
+    background-size: cover;
+    height: 381px;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 151px;
+    
+}
+
+.section3 p{
+    color: #FFFFFF;
+}
+
+.section3 span {
+    color: #F1AD1D;
+}
+
+.section4 {
+    text-align: center;
+}
+
+.section5 {
+    background: url('../img/bg3.jpg') fixed;
+    background-size: cover;
+    height: 477px;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 175px;
+}
+
+.section5 p{
+    color: #FFFFFF;
+}
+
+.section5 span {
+    color: #F1AD1D;
+}
+
+.img  img{
+    padding:0 55px 0 0;
+}
+
+.section6 {
+    text-align: center;
+}
+
+.section7 {
+    background: url('../img/bg4.jpg') fixed;
+    background-size: cover;
+    height: 486px;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 125px;
+}
+
+.section7 p{
+    color: #FFFFFF;
+}
+
+.section7 span {
+    color: #F1AD1D;
+}
+
+.section7 .href {
+    color: #F1AD1D; 
+}
+
+.line2 {
+    background: #FFFFFF;
+    width: 282px;
+    height: 4px;
+    margin: 56px auto 80px;
+}
+
+.section8 {
+    text-align: center;
+    padding-bottom: 134px;
+}
