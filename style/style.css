@@ -8,10 +8,6 @@
     font-weight: bold;
 }
 
-.wrapper {
-  
-}
-
 .section1 {
     background: url('../img/bg1.jpg') fixed;
     background-size: cover;
@@ -121,6 +117,7 @@
 }
 
 .img  img{
+    height: 40px;
     padding:0 55px 0 0;
 }
 
